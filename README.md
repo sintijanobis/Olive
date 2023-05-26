@@ -11,7 +11,7 @@ optimizations are fragmented. With Olive, we can:
 Reduce engineering effort for optimizing models for cloud and edge: Developers are required to learn and utilize
 multiple hardware vendor-specific toolchains in order to prepare and optimize their trained model for deployment.
 Olive aims to simplify the experience by aggregating and automating optimization techniques for the desired hardware
-targets.
+targets. 
 
 Build up a unified optimization framework: Given that no single optimization technique serves all scenarios well,
 Olive enables an extensible framework that allows industry to easily plugin their optimization innovations.  Olive can
